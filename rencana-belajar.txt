@@ -1,5 +1,8 @@
 Rencana belajar
 -Wordpress : Web e-comerce
 -Android
+  *Framework
 -Laravel
 -Kotlin
+-python
+ *Framework
