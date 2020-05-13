@@ -1,3 +1,4 @@
 Rencana belajar
--Wordpress
+-Wordpress : Web e-comerce
 -Android
+-Laravel
